@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "React Native WhatsApp Clone (UI)",
+    "slug": "react-native-whatsapp-clone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "A simple React-Native WhatsApp clone made using material top tab navigation and expo image picker."
+  },
+  "name": "task4-reactnativetopbarnavigation"
+}
